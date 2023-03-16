@@ -4,21 +4,16 @@
     <div align="center">
 		<img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/octo.gif" alt="GitHub Logo" width="150" height="150" />
 	</div>
+<h1 align="center">
+	Hey, I'm DONG Zhenyu
+</h1>
+	<div align="left" width="40">
+	About me
+	</div>
 
-    <h1 align="center">
-    	Hey, I'm DONG Zhenyu
-    </h1>
-    	<div align="left" width="40">
-    	About me
-    	</div>
-    
-    	<div align="right">
-        	<img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" alt="GitHub Logo" width="40%" height="40%"/>
-    	</div>
-
-
-​    
-</div>
+	<div align="right">
+		<img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" alt="GitHub Logo" width="40%" height="40%"/>
+	</div>
 
 
 
