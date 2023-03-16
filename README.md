@@ -25,15 +25,17 @@
 
 
 ## 📊 Github Stats
-	
+
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=dzy0726&theme=transparent&show_icons=true&hide=contribs" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzy0726&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=transparent&langs_count=6&layout=compact" />
 </div>
-
+	
+****
+	
 <div>
 	<img align="left" height="180" src="https://github-profile-trophy.vercel.app/?username=Dzy0726&theme=gruvbox&title=MultiLanguage&row=1&column=1" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=Dzy0726&theme=transparent&hide_border=true" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=Dzy0726&theme=transparent&hide_border=false" />
 </div>
 	
