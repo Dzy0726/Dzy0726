@@ -14,12 +14,12 @@
 ## 👤 About Me
 
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning **Date Science** in HKU
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-
+- 🔭 &nbsp; I’m currently looking for an internship
+- 🌱 &nbsp; I’m going to study Date Science in HKU
+- 👨🏻‍💻 &nbsp; Most of my projects are course project in TJU on [Github](https://github.com/Dzy0726?tab=repositories)
+- 🌠 &nbsp; 2023 Goal:Develop a new good study habit
+- 📫 &nbsp; You can contact me through [mail](mailto:dongzy@tongji.com)
+- ⚡ &nbsp; I hope what I wrote can help you
 
 
 
