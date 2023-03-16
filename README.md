@@ -13,7 +13,7 @@
 ## About me
 
 <p align="right">
-    <img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" width = 230px/>
+    <img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" width = "230px"/>
 </p>
 
 
