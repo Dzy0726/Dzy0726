@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love to play games
 
 <div align="right">
-<img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" alt="GitHub Logo" width="50%" height="50%" /
+<img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" alt="GitHub Logo" width="45%" height="45%" /
 </div>
 
 
