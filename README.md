@@ -3,26 +3,17 @@
 <div align="center">
 <img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
-
-<h3 align="center">
-  DONG Zhenyu
-</h3>
-
-
-
-<p align="right">
-    <img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" alt="GitHub Logo" />
+<h1 align="center">
+  Hey, I'm DONG Zhenyu
+</h1>
+<p>
+    <h2>About Me...</h2>
+	Tongji University,Software Engineering
 </p>
 
-
-
-
-
-
-
-
-
-
+<p align="right">
+    <img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" alt="GitHub Logo" width="40%" height="40%"/>
+</p>
 
 
 
