@@ -2,15 +2,17 @@
 
 <div>
     <div align="center">
-		<img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/octo.gif" alt="GitHub Logo" width="150" height="150" />
+		<img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/octo.gif" alt="GitHub Logo" width="100" height="100" />
 	</div>
 <h1 align="center">
 	Hey, I'm DONG Zhenyu
 </h1>
 
-<img align="right" alt="GIF" src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif"  height="250px"/>
 
-## 🧐 About Me...
+
+## 👤 About Me
+
 
 - 🔭 &nbsp; I’m currently working on **youtube-audio-player**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
@@ -23,33 +25,13 @@
 
 
 ## 📊 Github Stats
-
+	
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dzy0726&theme=transparent&hide=contribs&show_icons=true" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=dzy0726&theme=transparent&show_icons=true&hide=contribs" />
+	<img height="165" width="210" width=auto  src="https://github-profile-trophy.vercel.app/?username=Dzy0726&theme=gruvbox&title=MultiLanguage&row=1&column=1" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzy0726&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=transparent&langs_count=6&layout=compact" />
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-![stats](https://github-readme-stats.vercel.app/api?username=Dzy0726&theme=transparent&hide=contribs&show_icons=true)
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dzy0726&theme=transparent)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dzy0726&&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dzy0726&margin-w=15&theme=gruvbox&title=MultiLanguage)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
