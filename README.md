@@ -1,4 +1,4 @@
-<img src="C:\Users\18521\Desktop\Dzy0726\README.assets\octo.gif" alt="octo" style="zoom:25%;" />
+<img src="README.assets/octo.gif" alt="octo" style="zoom:25%;" />
 
 <h1 align="center">
   Hey, I'm DONG Zhenyu!
@@ -6,7 +6,7 @@
 
 
 
-![codeing](README.assets\codeing.gif)
+![codeing](README.assets/codeing.gif)
 
 
 
