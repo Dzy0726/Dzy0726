@@ -9,14 +9,12 @@
 </h1>
 	<div align="left" width="40">
 
-	</div>
-
-
 
 ## About me
 
-| - 🔗 I’m currently learning Blockchain<br/>- 👐 I’m looking to contribute to open source<br/>- 🥅 2022 Goals: Learn more about Blockchains and Solidity<br/>- ⚡ Fun fact: I love to play games | ![coding](https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<p align="right">
+    <img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" width = 230px/>
+</p>
 
 
 
