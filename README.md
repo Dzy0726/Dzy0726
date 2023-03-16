@@ -25,7 +25,7 @@
 ## 📊 Github Stats
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api？username=Dzy0726&theme=transparent&hide=contribs&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dzy0726&theme=transparent&hide=contribs&show_icons=true" />
 </div>
 
 
