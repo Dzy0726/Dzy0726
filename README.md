@@ -7,14 +7,36 @@
 <h1 align="center">
 	Hey, I'm DONG Zhenyu
 </h1>
-	<div align="left" width="40">
+
+<img align="right" alt="GIF" src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" width="360px"/>
+
+## 🧐 About Me...
+
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌱 &nbsp; I’m currently learning **Date Science** in HKU
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 
 
-## About me
 
 <p align="right">
     <img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" width = "230px"/>
 </p>
+
+## 📊 Github Stats
+
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api？username=Dzy0726&theme=transparent&hide=contribs&show_icons=true" />
+</div>
+
+
+
+
+
+
+
+
 
 
 
