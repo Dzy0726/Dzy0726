@@ -28,10 +28,11 @@
 	
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=dzy0726&theme=transparent&show_icons=true&hide=contribs" />
-	<img height="165" width=auto  src="https://github-profile-trophy.vercel.app/?username=Dzy0726&theme=gruvbox&title=MultiLanguage&row=1&column=1" />
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzy0726&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=transparent&langs_count=6&layout=compact" />
 </div>
 
-
+<div>
+	<img src="https://github-profile-trophy.vercel.app/?username=Dzy0726&theme=gruvbox&title=MultiLanguage&row=1&column=1" />
+</div>
 
 
