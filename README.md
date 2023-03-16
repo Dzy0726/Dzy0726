@@ -11,9 +11,8 @@
 	About me
 	</div>
 
-	<div align="right">
-		<img src="https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif" alt="GitHub Logo" width="40%" height="40%"/>
-	</div>
+
+![coding](https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif)
 
 
 
