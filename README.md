@@ -8,13 +8,15 @@
 	Hey, I'm DONG Zhenyu
 </h1>
 	<div align="left" width="40">
-	About me
+
 	</div>
 
 
-![coding](https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif)
 
+## About me
 
+| - 🔗 I’m currently learning Blockchain<br/>- 👐 I’m looking to contribute to open source<br/>- 🥅 2022 Goals: Learn more about Blockchains and Solidity<br/>- ⚡ Fun fact: I love to play games | ![coding](https://github.com/Dzy0726/Dzy0726/blob/main/README.assets/codeing.gif) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
