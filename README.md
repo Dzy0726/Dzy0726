@@ -31,8 +31,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzy0726&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=transparent&langs_count=6&layout=compact" />
 </div>
 	
-****
-	
 <div>
 	<img align="left" height="180" src="https://github-profile-trophy.vercel.app/?username=Dzy0726&theme=gruvbox&title=MultiLanguage&row=1&column=1" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
