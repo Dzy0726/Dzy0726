@@ -17,7 +17,7 @@
 
 - 🔭 &nbsp; I am currently an intern at Tencent
 - 🌱 &nbsp; I’m going to study Date Science in HKU
-- 👨🏻‍💻 &nbsp; Most of my projects are course project in TJU on [Github](https://github.com/Dzy0726?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are course project in Tongji on [Github](https://github.com/Dzy0726?tab=repositories)
 - 🌠 &nbsp; 2023 Goal:Develop a new good study habit
 - 📫 &nbsp; You can contact me through [mail](mailto:dongzy@tongji.com)
 - ⚡ &nbsp; I hope what I wrote can help you
