@@ -15,7 +15,7 @@
 
 	
 
-- 🔭 &nbsp; I'm recently looking for a back-end development internship
+- 🔭 &nbsp; I'm recently looking for an internship
 - 🌱 &nbsp; I'm studying for a master's degree in data science at the University of Hong Kong.
 - 👨🏻‍💻 &nbsp; Most of my projects are course project in Tongji on [Github](https://github.com/Dzy0726?tab=repositories)
 - 🌠 &nbsp; 2024 Goal:Develop a new good study habit & Get a job.
